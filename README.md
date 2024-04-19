@@ -12,7 +12,7 @@ A seasoned software engineer with a master's degree, I specialize in crafting dy
 * ⚡  I Love Playing Video Games 🕹️
 
 <a href="https://www.github.com/menadhichem" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/menadhichem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/menadhichem" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/menadhichem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/HichemMenad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/menadhichem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
