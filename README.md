@@ -8,7 +8,7 @@ A seasoned software engineer with a master's degree, I specialize in crafting dy
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [menadhichem076@gmail.com](mailto:menadhichem076@gmail.com)
-* 🧠  I'm learning Asp.net & nextJS
+* 🧠  Working with Asp.net & Flutter
 * ⚡  I Love Playing Video Games 🕹️
 
 <a href="https://www.github.com/menadhichem" target="_blank" rel="noreferrer"><img
